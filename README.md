@@ -1,9 +1,11 @@
 # tableau-dashboard
-#MakeoverMondayCoursera #data_visualization #tableau #tableau_vis 
+#data_visualization #tableau #tableau_vis 
+
+#MakeoverMonday project and data is available here: [makeovermonday](https://www.makeovermonday.co.uk/data/)
+
 
 ## 01 Alcohol Consumption by Country
 
-#MakeoverMonday project and data is available here: [makeovermonday link](https://www.makeovermonday.co.uk/data/)
 
 **2019 Week 26** - Alcohol Consumption by Country
 
