@@ -9,6 +9,9 @@
 - Which three worst-performing sub-categories overall?
 - How much worse they perform than other sub-categories?
 
++ Region attribute used for pop-up operation. When the user clicks on one of the area values, such as East, only the East value pops up in the Box-and-Whisker plot.
++ The enclosure was used to meet Gestalt principles. I coloured the three worst-performing sub-categories red and the rest grey.
++ To reduce the cognitive load and declutter, I also plotted the two overall graphs.
 
 ![Worst Performing Sub-Categories in Sales](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/fcc78669-834f-483a-b2e0-c3e15d69e13b)
 
