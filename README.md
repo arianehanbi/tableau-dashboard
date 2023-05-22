@@ -13,7 +13,7 @@
   + The enclosure was used to meet Gestalt principles. I coloured the three worst-performing sub-categories red and the rest grey.
   + To reduce the cognitive load and declutter, I also plotted the two overall graphs.
 
-![03 Worst Performing Sub-Categories in Sales](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/49ce9f82-279d-45fc-8a66-c336e617dd7f)
+![03 Worst Performing Sub-Categories in Sales](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/1d0f53a9-046f-4af7-9615-830a18b00831)
 
 
 ## 02 Press Freedom Index
