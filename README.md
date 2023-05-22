@@ -5,13 +5,14 @@
 
 ## 03 Worst Performing Sub-Categories in Sales
 
-- Over the past three years, the number of countries with high press freedom has been decreasing, and those with low media freedom has been increasing.
-- There are overwhelmingly many countries whose press freedom index increased in 2023, compared to 2022.
-- Countries with low media freedom indices are mainly Asia, the Middle East and Eastern Europe.
+- Which three worst-performing sub-categories for profit by region?
+- Which three worst-performing sub-categories overall?
+- How much worse they perform than other sub-categories?
 
 
 <img width="1433" alt="03 Worst Performing Sub-Categories in Sales" src="https://github.com/arianehanbi/tableau-dashboard/assets/37695060/fcc78669-834f-483a-b2e0-c3e15d69e13b">
 
+![Worst Performing Sub-Categories in Sales](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/fcc78669-834f-483a-b2e0-c3e15d69e13b)
 
 
 
