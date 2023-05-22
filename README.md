@@ -12,7 +12,8 @@
 - There are overwhelmingly many countries whose press freedom index increased in 2023, compared to 2022.
 - Countries with low media freedom indices are mainly Asia, the Middle East and Eastern Europe.
 
-![02 Press Freedom Index](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/354e7262-69b2-4eed-9352-278e26432263)
+![02 Press Freedom Index](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/131273d7-5ff1-4cae-bae6-ceaf3b92b306)
+
 
 
 
