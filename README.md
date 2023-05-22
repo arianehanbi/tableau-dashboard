@@ -10,8 +10,6 @@
 - How much worse they perform than other sub-categories?
 
 
-<img width="1433" alt="03 Worst Performing Sub-Categories in Sales" src="https://github.com/arianehanbi/tableau-dashboard/assets/37695060/fcc78669-834f-483a-b2e0-c3e15d69e13b">
-
 ![Worst Performing Sub-Categories in Sales](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/fcc78669-834f-483a-b2e0-c3e15d69e13b)
 
 
