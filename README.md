@@ -7,7 +7,7 @@
 
 **2018 Week 5** - open-source [data](https://data.world/makeovermonday/2018-w-5-what-the-most-profitable-companies-make-per-second)
 
-- The most profitable industry per second is Technology/Internet, followed by Banking/Finance—they account for 59.63% of the total.
+- The most profitable industry per second is Technology/Internet, followed by Banking/Finance—they account for 59.63% of the total.
 
 - The industry with the highest profitability per second on average is banking/finance.
 
@@ -16,6 +16,7 @@
 
 ![04 2016 The Most Profitable Company per Second](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/be6881a2-5f96-452a-9970-f994c6db3a1e)
 
+<br>
 <br>
 
 ## 03 Worst Performing Sub-Categories in Sales
