@@ -3,6 +3,18 @@
 
 #MakeoverMonday project and data is available here: [makeovermonday](https://www.makeovermonday.co.uk/data/)
 
+<br>
+<br>
+
+## 05 London Bus Safety Performance
+
+**2018 Week 51** - open-source [data](https://data.world/makeovermonday/2018w51)
+
+![05 London Bus Safety Performance](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/64b12a20-660b-40f7-a618-3bc558733ef7)
+
+<br>
+<br>
+
 ## 04 The Most Profitable Company per Second
 
 **2018 Week 5** - open-source [data](https://data.world/makeovermonday/2018-w-5-what-the-most-profitable-companies-make-per-second)
@@ -14,7 +26,8 @@
 - Apple has a considerable profit per second and is classified as an outlier compared to others in the Technology/Internet industry. In addition, Apple's profit per second is approximately twice higher as that of JP Morgan Chase, the second-highest profit per second.
 
 
-![04 2016 The Most Profitable Company per Second](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/d64040bf-f72e-437d-a0a9-1e4dae62fef1)
+![04 The Most Profitable Company per Second](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/bf68832d-3505-44d6-a4a3-d9c4846a91f4)
+
 
 
 <br>
@@ -30,7 +43,8 @@
   + The enclosure was used to meet Gestalt principles. I coloured the three worst-performing sub-categories red and the rest grey.
   + To reduce the cognitive load and declutter, I also plotted the two overall graphs.
 
-![03 Worst Performing Sub-Categories in Sales](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/1d0f53a9-046f-4af7-9615-830a18b00831)
+![03 Worst Performing Sub-Categories in Sales](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/bdd68f1d-48ad-404a-9b70-71ec3476fc8d)
+
 
 <br>
 
@@ -43,9 +57,7 @@
 - There are overwhelmingly many countries whose press freedom index increased in 2023, compared to 2022.
 - Countries with low media freedom indices are mainly Asia, the Middle East and Eastern Europe.
 
-![02 Press Freedom Index](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/131273d7-5ff1-4cae-bae6-ceaf3b92b306)
-
-![02 Press Freedom Index](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/531551c9-52ce-4cad-8f78-5c985d2e519c)
+![02 Press Freedom Index](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/29a53346-6a8c-4a3b-a21c-05f3e42df058)
 
 
 <br>
@@ -59,6 +71,7 @@
 - The top 5 countries with the highest alcohol consumption are Russia and its neighbours.
 
 
-![01 Alcohol Consumption by Country](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/b1ff5be4-3518-4e0b-842b-42dc24b72ae9)
+![01 Alcohol Consumption by Country](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/fd584f4d-3a7e-4446-aa38-5ef3d03a5395)
+
 
 <br>
