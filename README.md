@@ -5,9 +5,13 @@
 
 ## 04 The Most Profitable Company per Second
 
-**2018 Week 5** - [data](https://data.world/makeovermonday/2018-w-5-what-the-most-profitable-companies-make-per-second)
+**2018 Week 5** - open-source [data](https://data.world/makeovermonday/2018-w-5-what-the-most-profitable-companies-make-per-second)
 
-- Which three worst-performing sub-categories for profit by region?
+- The most profitable industry per second is Technology/Internet, followed by Banking/Finance—they account for 59.63% of the total.
+
+- The industry with the highest profitability per second on average is banking/finance.
+
+- Apple has a considerable profit per second and is classified as an outlier compared to others in the Technology/Internet industry. In addition, Apple's profit per second is approximately twice higher as that of JP Morgan Chase, the second-highest profit per second.
 
 
 ![04 2016 The Most Profitable Company per Second](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/be6881a2-5f96-452a-9970-f994c6db3a1e)
