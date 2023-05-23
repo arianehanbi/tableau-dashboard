@@ -14,7 +14,8 @@
 - Apple has a considerable profit per second and is classified as an outlier compared to others in the Technology/Internet industry. In addition, Apple's profit per second is approximately twice higher as that of JP Morgan Chase, the second-highest profit per second.
 
 
-![04 2016 The Most Profitable Company per Second](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/be6881a2-5f96-452a-9970-f994c6db3a1e)
+![04 2016 The Most Profitable Company per Second](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/d64040bf-f72e-437d-a0a9-1e4dae62fef1)
+
 
 <br>
 <br>
