@@ -45,6 +45,8 @@
 
 ![02 Press Freedom Index](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/131273d7-5ff1-4cae-bae6-ceaf3b92b306)
 
+![02 Press Freedom Index](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/531551c9-52ce-4cad-8f78-5c985d2e519c)
+
 
 <br>
 
