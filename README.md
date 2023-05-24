@@ -6,6 +6,24 @@
 <br>
 <br>
 
+## 06 FDA Product Recalls
+
+**2023 Week 21** - open-source [data]([https://data.world/makeovermonday/2018w51](https://data.world/makeovermonday/2023w21))
+
+- The most frequent recall class is Class 2, and the type is Devices.
+
+- The total number of recalls has decreased significantly over the past three years.
+
+- There have been quite a few ongoing recalls in recent years.
+
+
+![06 FDA Product Recalls](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/b5a98bdf-fc51-4a77-972e-cb60cb38f31d)
+
+
+<br>
+<br>
+
+
 ## 05 London Bus Safety Performance
 
 **2018 Week 51** - open-source [data](https://data.world/makeovermonday/2018w51)
