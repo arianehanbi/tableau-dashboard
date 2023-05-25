@@ -6,6 +6,24 @@
 <br>
 <br>
 
+## 08 Factors Affecting Profitability
+
+open-source [data](https://data.world/bobmajor/sales)
+
+- **There is no notable variance in profitability across regions**. While a specific region generated high revenue, it appears that costs also rose in proportion to the returns.
+
+- Clothing stands out as the most profitable item, with a profitability of 67%. Interestingly, the top three items with the highest revenue occupy lower positions in the profitability ranking. **This suggests that there is no significant relationship between profitability and revenue per item.**
+
+- No substantial association is observed between Profitability and Sales Channels.
+
+
+![08 Factors Affecting Profitability](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/948ce075-4db9-40b8-b39b-9ad86a5c7464)
+
+
+<br>
+<br>
+
+
 ## 07 How Discount Affects Profitability
 
 
