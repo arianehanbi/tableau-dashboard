@@ -15,8 +15,8 @@
 
 - The top 25 customers with the lowest profitability have consistently placed orders with significant discounts. **Unprofitable orders probably correspond to heavily discounted.**
 
+![07 How Discounts Affect Profitability](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/de58c931-8453-4695-87b1-05d532cdc9dd)
 
-![07 How Discounts Affect Profitability](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/994b2caf-fd1f-4a94-98f6-7d8fac210563)
 
 
 <br>
