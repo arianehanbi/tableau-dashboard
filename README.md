@@ -6,6 +6,13 @@
 <br>
 <br>
 
+## 10 Sales Dashboard
+
+
+![10 Sales Dashboard](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/dc28a02e-5105-4d28-8eaf-fdc90937053e)
+
+
+
 ## 09 Bank Marketing Research
 
 open-source [data](https://data.world/bobmajor/sales](https://data.world/data-society/bank-marketing-data)
@@ -35,8 +42,9 @@ open-source [data](https://data.world/bobmajor/sales)
 
 - No substantial association is observed between Profitability and Sales Channels.
 
+![08 Factors Affecting Profitability](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/c40cfded-dac0-4f01-9003-1d428fb7fcc5)
 
-![08 Factors Affecting Profitability](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/948ce075-4db9-40b8-b39b-9ad86a5c7464)
+
 
 
 <br>
@@ -52,7 +60,7 @@ open-source [data](https://data.world/bobmajor/sales)
 
 - The top 25 customers with the lowest profitability have consistently placed orders with significant discounts. **Unprofitable orders probably correspond to heavily discounted.**
 
-![07 How Discounts Affect Profitability](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/de58c931-8453-4695-87b1-05d532cdc9dd)
+![07 How Discounts Affect Profitability](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/db10d978-831a-48fe-83cc-94a2024a923c)
 
 
 
@@ -69,8 +77,8 @@ open-source [data](https://data.world/bobmajor/sales)
 
 - There have been quite a few ongoing recalls in recent years.
 
+![06 FDA Product Recalls](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/c148ba37-3a56-44d5-804e-61dab1359a5a)
 
-![06 FDA Product Recalls](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/b5a98bdf-fc51-4a77-972e-cb60cb38f31d)
 
 
 <br>
@@ -81,7 +89,8 @@ open-source [data](https://data.world/bobmajor/sales)
 
 **2018 Week 51** - open-source [data](https://data.world/makeovermonday/2018w51)
 
-![05 London Bus Safety Performance](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/64b12a20-660b-40f7-a618-3bc558733ef7)
+![05 London Bus Safety Performance](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/9b4916e9-032b-438b-ad94-848b2b82f43e)
+
 
 <br>
 <br>
@@ -97,7 +106,7 @@ open-source [data](https://data.world/bobmajor/sales)
 - Apple has a considerable profit per second and is classified as an outlier compared to others in the Technology/Internet industry. In addition, Apple's profit per second is approximately twice higher as that of JP Morgan Chase, the second-highest profit per second.
 
 
-![04 The Most Profitable Company per Second](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/bf68832d-3505-44d6-a4a3-d9c4846a91f4)
+![04 The Most Profitable Company per Second](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/25eb3bb7-8d42-4d47-9d8b-a26658ca4114)
 
 
 
@@ -114,7 +123,8 @@ open-source [data](https://data.world/bobmajor/sales)
   + The enclosure was used to meet Gestalt principles. I coloured the three worst-performing sub-categories red and the rest grey.
   + To reduce the cognitive load and declutter, I also plotted the two overall graphs.
 
-![03 Worst Performing Sub-Categories in Sales](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/bdd68f1d-48ad-404a-9b70-71ec3476fc8d)
+
+![03 Worst Performing Sub-Categories in Sales](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/31cd5fde-3666-4571-bc7c-4467bd55873f)
 
 
 <br>
@@ -143,8 +153,8 @@ open-source [data](https://data.world/makeovermonday/2019w26)
 - The country with the highest alcohol consumption is Belarus.
 - The top 5 countries with the highest alcohol consumption are Russia and its neighbours.
 
+![01 Alcohol Consumption by Country](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/7e86b24f-7aec-4c04-aa14-1d5af08f6a03)
 
-![01 Alcohol Consumption by Country](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/fd584f4d-3a7e-4446-aa38-5ef3d03a5395)
 
 
 <br>
