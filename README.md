@@ -6,6 +6,25 @@
 <br>
 <br>
 
+## 09 Bank Marketing Research
+
+open-source [data](https://data.world/bobmajor/sales](https://data.world/data-society/bank-marketing-data)
+
+- As a result of analyzing customers who have achieved positive outcomes in bank marketing, they show a **high percentage in single, highly educated, and non-working occupations such as students or retired. **
+
+- In addition, the marketing that yielded positive results had **a call duration more than twice** that of the negative cases, typically spanning around 9 minutes on average.
+
+- Regarding marketing effectiveness, **the longer the time interval or the weaker the association with past marketing-related interactions**, the more favourable the marketing outcomes.
+
+- It shows that approximately 99% of customers who subscribed to marketing products did not experience **Defaults**. However, the **Housing Loan** presence did not significantly impact this outcome.
+
+
+![09 Bank Marketing Research](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/45475b30-0317-47bf-a5cb-c6d7999b37b8)
+
+
+<br>
+<br>
+
 ## 08 Factors Affecting Profitability
 
 open-source [data](https://data.world/bobmajor/sales)
