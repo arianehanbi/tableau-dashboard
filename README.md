@@ -6,6 +6,22 @@
 <br>
 <br>
 
+## 07 How Discount Affects Profitability
+
+
+- As the Discount increases, the Profit Ratio decreases consistently, indicating a negative correlation between the two variables. **Thus, they possess an inverse proportionality.**
+
+- The **Consumer Segment** shows most instances of heavily discounted, unprofitable orders
+
+- The top 25 customers with the lowest profitability have consistently placed orders with significant discounts. **Unprofitable orders probably correspond to heavily discounted.**
+
+
+![07 How Discounts Affect Profitability](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/994b2caf-fd1f-4a94-98f6-7d8fac210563)
+
+
+<br>
+<br>
+
 ## 06 FDA Product Recalls
 
 **2023 Week 21** - open-source [data]([https://data.world/makeovermonday/2018w51](https://data.world/makeovermonday/2023w21))
