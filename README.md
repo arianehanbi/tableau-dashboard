@@ -6,12 +6,34 @@
 <br>
 <br>
 
+## 11 Big Mac Index
+
+**2018 Week 31**
+
+open-source data: [data.world](https://data.world/makeovermonday/2018w31-big-mac-index) <br>
+data repository [github](https://github.com/TheEconomist/big-mac-data)
+
+The Big Mac Index, created by The Economist, is a lighthearted guide to currency valuation based on Purchasing-Power Parity (PPP). It compares the prices of Big Macs in different countries to assess exchange rate fairness suggesting that exchange rates should eventually align to equalize prices of the same goods and services across different countries.
+
+- For instance, in Switzerland, which has the highest Big Mac index, the cost of a Big Mac is CHF 6.5, while it is $5.1 in the US. Consequently, when comparing product prices, the implied exchange rate is 1.28, whereas the actual exchange rate is 0.95. This suggests that the Swiss franc was approximately 34% overvalued compared to the US dollar.
+
+
+
+![11 Big Mac Index](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/6ca554d4-c7cb-4c6f-bf46-f398af5bb000)
+
+
+<br>
+<br>
+
 ## 10 Sales Dashboard
 
+open-source data: [data.world](https://data.world/makeovermonday/2018w31-big-mac-index) <br>
+data repository [github](https://github.com/TheEconomist/big-mac-data)
 
 ![10 Sales Dashboard](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/dc28a02e-5105-4d28-8eaf-fdc90937053e)
 
-
+<br>
+<br>
 
 ## 09 Bank Marketing Research
 
@@ -34,7 +56,7 @@ open-source [data](https://data.world/bobmajor/sales](https://data.world/data-so
 
 ## 08 Factors Affecting Profitability
 
-open-source [data](https://data.world/bobmajor/sales)
+open-source data: [data.world](https://data.world/bobmajor/sales)
 
 - **There is no notable variance in profitability across regions**. While a specific region generated high revenue, it appears that costs also rose in proportion to the returns.
 
@@ -69,7 +91,7 @@ open-source [data](https://data.world/bobmajor/sales)
 
 ## 06 FDA Product Recalls
 
-**2023 Week 21** - open-source [data]([https://data.world/makeovermonday/2018w51](https://data.world/makeovermonday/2023w21))
+**2023 Week 21** - open-source data: [data.world]([https://data.world/makeovermonday/2018w51](https://data.world/makeovermonday/2023w21))
 
 - The most frequent recall class is Class 2, and the type is Devices.
 
@@ -87,7 +109,7 @@ open-source [data](https://data.world/bobmajor/sales)
 
 ## 05 London Bus Safety Performance
 
-**2018 Week 51** - open-source [data](https://data.world/makeovermonday/2018w51)
+**2018 Week 51** - open-source data: [data.world](https://data.world/makeovermonday/2018w51)
 
 ![05 London Bus Safety Performance](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/9b4916e9-032b-438b-ad94-848b2b82f43e)
 
@@ -97,7 +119,7 @@ open-source [data](https://data.world/bobmajor/sales)
 
 ## 04 The Most Profitable Company per Second
 
-**2018 Week 5** - open-source [data](https://data.world/makeovermonday/2018-w-5-what-the-most-profitable-companies-make-per-second)
+**2018 Week 5** - open-source data: [data.world](https://data.world/makeovermonday/2018-w-5-what-the-most-profitable-companies-make-per-second)
 
 - The most profitable industry per second is Technology/Internet, followed by Banking/Finance—they account for 59.63% of the total.
 
@@ -148,7 +170,7 @@ open-source [data](https://data.world/makeovermonday/2019w26)
 ## 01 Alcohol Consumption by Country
 
 
-**2019 Week 26** - Alcohol Consumption by Country, open-source [data](https://data.world/makeovermonday/2019w26)
+**2019 Week 26** - Alcohol Consumption by Country, open-source data: [data.world](https://data.world/makeovermonday/2019w26)
 
 - The country with the highest alcohol consumption is Belarus.
 - The top 5 countries with the highest alcohol consumption are Russia and its neighbours.
