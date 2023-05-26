@@ -27,9 +27,6 @@ The Big Mac Index, created by The Economist, is a lighthearted guide to currency
 
 ## 10 Sales Dashboard
 
-open-source data: [data.world](https://data.world/makeovermonday/2018w31-big-mac-index) <br>
-data repository [github](https://github.com/TheEconomist/big-mac-data)
-
 ![10 Sales Dashboard](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/dc28a02e-5105-4d28-8eaf-fdc90937053e)
 
 <br>
