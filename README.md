@@ -6,6 +6,19 @@
 <br>
 <br>
 
+## 12 Federal Minimum Wage
+
+**2023 Week 17**
+
+open-source data: [data.world](https://data.world/makeovermonday/2023w18) <br>
+
+- Louisiana has the highest percentage of employees AT or BELOW the minimum wage of 3.2% in 2021.
+
+![Dashboard 1](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/5233a0c0-c144-4605-ad1a-f096966336f0)
+
+<br>
+<br>
+
 ## 11 Big Mac Index
 
 **2018 Week 31**
