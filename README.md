@@ -6,6 +6,24 @@
 <br>
 <br>
 
+## 13 Dog Bites in NYC
+
+**2023 Week 22**
+
+open-source data: [data.world](https://data.world/makeovermonday/2023w22) <br>
+
+- The primary factors contributing to dog bite accidents include aggressive breeds, neutralization, borough, and season. Additionally, seasonality plays a role in the level of outdoor activities dogs engage in, influenced by weather and temperature. And each borough considers factors such as income level and population density.
+
+- In general, dog bites showed an upward trend with mild weather conditions from April to September. These incidents were more prevalent in areas with a lower neutering rate and boroughs characterized by lower income levels.
+
+- **Pit Bulls** are responsible for a significantly higher number of dog bites compared to other breeds, ranging from 2 to 10 times more incidents per year and borough.
+
+![13 Dog Bites in NYC](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/35880bf6-0e17-4966-a4da-7d38800a2cbb)
+
+
+<br>
+<br>
+
 ## 12 Federal Minimum Wage
 
 **2023 Week 17**
