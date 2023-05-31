@@ -6,6 +6,20 @@
 <br>
 <br>
 
+## 14 Small Business Applications and Loan Amounts
+
+**2023 Week 6**
+
+open-source data: [data.world](https://data.world/makeovermonday/2023w6) <br>
+
+- Approximately **50%** of the Total Gross Approval is attributed to the **top quartile** of Borrowers' States.
+
+
+![14 Small Business Applications and Loan Amounts](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/6ca1c99a-386c-4bf8-942c-f0cb8d1fba71)
+
+<br>
+<br>
+
 ## 13 Dog Bites in NYC
 
 **2023 Week 22**
