@@ -14,8 +14,8 @@ open-source data: [data.world](https://data.world/makeovermonday/2023w6) <br>
 
 - Approximately **50%** of the Total Gross Approval is attributed to the **top quartile** of Borrowers' States.
 
+![14 Small Business Applications and Loan Amounts](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/4e3f6063-c3a6-4bae-b042-a7dcdcb8e8b2)
 
-![14 Small Business Applications and Loan Amounts](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/6ca1c99a-386c-4bf8-942c-f0cb8d1fba71)
 
 <br>
 <br>
