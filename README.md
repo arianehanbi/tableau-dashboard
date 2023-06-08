@@ -6,6 +6,20 @@
 <br>
 <br>
 
+## 15 Melbourne Pedestrian Counters
+
+**2023 Week 23**
+
+open-source data: [data.world](https://data.world/makeovermonday/2023w23) <br>
+
+- **April 2020** marked a notable decrease in pedestrian activity, primarily attributed to the influence of the **COVID-19 pandemic**. It is conceivable that several measures, such as implementing restrictions on outdoor movement, were put into effect in response to the prevailing circumstances.
+
+![15 Melbourne Pedestrian Counters](https://github.com/arianehanbi/tableau-dashboard/assets/37695060/ead65f00-bca2-4506-98d9-6c2b682dc7fe)
+
+
+<br>
+<br>
+
 ## 14 Small Business Applications and Loan Amounts
 
 **2023 Week 6**
